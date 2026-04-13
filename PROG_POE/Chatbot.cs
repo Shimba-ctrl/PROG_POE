@@ -37,6 +37,7 @@ public class Chatbot
             return $"Smart thinking {userName} 🌐\n- Only visit secure sites (https://)\n- Avoid unknown links\n- Look for the padlock icon";
         }
         else if (input.Contains("thank"))
+            // allowing student to be polite 
         {
             return $"You are always welcome, {userName}! Remember to stay safe!";
         }
