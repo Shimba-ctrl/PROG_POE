@@ -32,3 +32,7 @@ It forms Part 1 of a Portfolio of Evidence (POE) and demonstrates basic programm
 - `greeting.wav` → Audio welcome message
 
 ---# PROG_POE
+<img width="1348" height="701" alt="image" src="https://github.com/user-attachments/assets/80689d89-762e-4db7-8634-22c835dae0e9" />
+<img width="1352" height="684" alt="image" src="https://github.com/user-attachments/assets/b7455ffe-c8ab-4137-9b6a-968f142f8d23" />
+<img width="1353" height="622" alt="image" src="https://github.com/user-attachments/assets/67543dbc-d748-4b18-b278-2eb16f7a13c7" />
+
